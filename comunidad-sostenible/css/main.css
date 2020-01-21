@@ -1,0 +1,43 @@
+/* Inserta tu codigo aqui */
+.separacion{
+    margin-top: 0.5rem;
+}
+
+.logo_semilla{
+    width: 10rem;
+    height: 5rem;
+    margin:2rem;
+}
+
+nav{
+    margin-top: 3rem;
+    color:grey;
+}
+
+.img_semilla{
+    width: 1000rem;
+    height: 30rem;
+    overflow: hidden;
+    margin: 10px;
+    position: relative;
+    overflow: hidden;
+    margin: auto;
+    min-height: 100%;
+    min-width: 100%;
+    
+}
+
+.img_carta1{
+    width: 15em;
+    height:15em;
+    margin-left:12rem;
+}
+
+.card-title{
+    font-weight: bold;
+    margin-left: 12rem;
+}
+
+.card-tex{
+    align-content: center;
+}
